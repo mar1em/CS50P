@@ -15,4 +15,4 @@
 
 ## Certification 
 
-[Link t CS50 Certificate ](https://certificates.cs50.io/97833b25-5348-4629-b6bd-942fb890c193.pdf?size=letter)
+[CS50 Certificate ](https://certificates.cs50.io/97833b25-5348-4629-b6bd-942fb890c193.pdf?size=letter)
